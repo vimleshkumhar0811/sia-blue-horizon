@@ -104,7 +104,7 @@ function About() {
               </h3>
               <p className="text-lg md:text-xl text-gray-700 mb-6">
                 <strong>Date of Birth:</strong> 10 December 1982<br />
-                <strong>Passport No:</strong> R5459242
+                {/* <strong>Passport No:</strong> R5459242 */}
               </p>
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
                 The company is led by Pragneshkumar Jashbhai Patel, who brings more than <strong>three years</strong> of professional experience as a Logistics Coordinator in India. His background includes managing transport schedules, coordinating multi-party shipments, handling documentation, and maintaining clear communication between suppliers, carriers, and clients.

@@ -147,7 +147,7 @@ function Home() {
                 </h3>
                 <p className="text-lg text-slate-600 mb-4">
                   <strong>Born:</strong> 10 December 1982<br />
-                  <strong>Passport No:</strong> R5459242
+                  {/* <strong>Passport No:</strong> R5459242 */}
                 </p>
                 <p className="text-slate-700 leading-relaxed mb-6">
                   With more than <strong>three years</strong> of hands-on experience as a Logistics Coordinator in India, managing transport schedules, shipments, documentation, and stakeholder communication. This practical expertise ensures efficient, reliable operations at SIA BLUE HORIZON.
